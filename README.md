@@ -2,8 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Votify%20API&reversal=false">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/Zekra-Labs/Votify-API)
-![GitHub contributors](https://img.shields.io/github/contributors/Zekra-Labs/Votify-API)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Aethelon/Votify-API)
+![GitHub contributors](https://img.shields.io/github/contributors/Aethelon/Votify-API)
 
 </div>
 
@@ -34,7 +34,7 @@ Votify-Api is a REST API developed with Spring Boot for managing voting systems 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/Zekra-Labs/Votify-Api.git
+git clone https://github.com/Aethelon/Votify-Api.git
 cd Votify-Api
 ```
 
@@ -289,5 +289,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Contact
 
-- Email - [zekralabsti@gmail.com](mailto:zekralabsti@gmail.com)
-- Project Link: [https://github.com/Zekra-Labs/Votify-API](https://github.com/Zekra-Labs/Votify-API)
+- Email - [aetheloncontact@gmail.com](mailto:aetheloncontact@gmail.com)
+- Project Link: [https://github.com/Aethelon/Votify-API](https://github.com/Aethelon/Votify-API)
